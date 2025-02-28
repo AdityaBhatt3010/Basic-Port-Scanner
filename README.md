@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Usage
 1. Run the script:
    ```sh
-   python scanner.py
+   python PortScanner.py
    ```
 2. Enter the target IP addresses (comma-separated for multiple targets):
    ```

@@ -12,10 +12,16 @@ The **Optimized Port Scanner** is a Python-based network scanning tool that effi
 - Colored output for better visibility.
 
 ## Requirements
-Ensure you have Python installed along with the required dependency:
+Ensure you have Python installed along with the required dependency termcolor.
 
+To install it run the command as follows:
 ```sh
 pip install termcolor
+```
+
+Alternatively, simply run:
+```sh
+pip install -r requirements.txt
 ```
 
 ## Usage
